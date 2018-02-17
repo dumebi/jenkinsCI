@@ -1,0 +1,23 @@
+{
+  "name": "jenkinsCI",
+  "version": "1.0.0",
+  "description": "First test CI using jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumebi/jenkinsCI.git"
+  },pm2
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumebi/jenkinsCI/issues"
+  },
+  "homepage": "https://github.com/dumebi/jenkinsCI#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
